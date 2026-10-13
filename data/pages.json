@@ -1,0 +1,4371 @@
+{
+  "home": {
+    "id": "page-1",
+    "url": "https://books.toscrape.com/",
+    "slug": "home",
+    "title": "All products | Books to Scrape - Sandbox",
+    "metaDescription": "",
+    "category": "home",
+    "products": [
+      {
+        "id": "prod-card-1",
+        "name": "A Light in the ...",
+        "price": "£51.77",
+        "rawPrice": 51.77,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-2",
+        "name": "Tipping the Velvet",
+        "price": "£53.74",
+        "rawPrice": 53.74,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-3",
+        "name": "Soumission",
+        "price": "£50.10",
+        "rawPrice": 50.1,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-4",
+        "name": "Sharp Objects",
+        "price": "£47.82",
+        "rawPrice": 47.82,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-5",
+        "name": "Sapiens: A Brief History ...",
+        "price": "£54.23",
+        "rawPrice": 54.23,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-6",
+        "name": "The Requiem Red",
+        "price": "£22.65",
+        "rawPrice": 22.65,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-7",
+        "name": "The Dirty Little Secrets ...",
+        "price": "£33.34",
+        "rawPrice": 33.34,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-8",
+        "name": "The Coming Woman: A ...",
+        "price": "£17.93",
+        "rawPrice": 17.93,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-9",
+        "name": "The Boys in the ...",
+        "price": "£22.60",
+        "rawPrice": 22.6,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-10",
+        "name": "The Black Maria",
+        "price": "£52.15",
+        "rawPrice": 52.15,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-11",
+        "name": "Starving Hearts (Triangular Trade ...",
+        "price": "£13.99",
+        "rawPrice": 13.99,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-12",
+        "name": "Shakespeare's Sonnets",
+        "price": "£20.66",
+        "rawPrice": 20.66,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-13",
+        "name": "Set Me Free",
+        "price": "£17.46",
+        "rawPrice": 17.46,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-14",
+        "name": "Scott Pilgrim's Precious Little ...",
+        "price": "£52.29",
+        "rawPrice": 52.29,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-15",
+        "name": "Rip it Up and ...",
+        "price": "£35.02",
+        "rawPrice": 35.02,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-16",
+        "name": "Our Band Could Be ...",
+        "price": "£57.25",
+        "rawPrice": 57.25,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-17",
+        "name": "Olio",
+        "price": "£23.88",
+        "rawPrice": 23.88,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-18",
+        "name": "Mesaerion: The Best Science ...",
+        "price": "£37.59",
+        "rawPrice": 37.59,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-19",
+        "name": "Libertarianism for Beginners",
+        "price": "£51.33",
+        "rawPrice": 51.33,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-20",
+        "name": "It's Only the Himalayas",
+        "price": "£45.17",
+        "rawPrice": 45.17,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "All products"
+      },
+      {
+        "level": 3,
+        "text": "A Light in the ..."
+      },
+      {
+        "level": 3,
+        "text": "Tipping the Velvet"
+      },
+      {
+        "level": 3,
+        "text": "Soumission"
+      },
+      {
+        "level": 3,
+        "text": "Sharp Objects"
+      },
+      {
+        "level": 3,
+        "text": "Sapiens: A Brief History ..."
+      },
+      {
+        "level": 3,
+        "text": "The Requiem Red"
+      },
+      {
+        "level": 3,
+        "text": "The Dirty Little Secrets ..."
+      },
+      {
+        "level": 3,
+        "text": "The Coming Woman: A ..."
+      },
+      {
+        "level": 3,
+        "text": "The Boys in the ..."
+      },
+      {
+        "level": 3,
+        "text": "The Black Maria"
+      },
+      {
+        "level": 3,
+        "text": "Starving Hearts (Triangular Trade ..."
+      },
+      {
+        "level": 3,
+        "text": "Shakespeare's Sonnets"
+      },
+      {
+        "level": 3,
+        "text": "Set Me Free"
+      },
+      {
+        "level": 3,
+        "text": "Scott Pilgrim's Precious Little ..."
+      },
+      {
+        "level": 3,
+        "text": "Rip it Up and ..."
+      },
+      {
+        "level": 3,
+        "text": "Our Band Could Be ..."
+      },
+      {
+        "level": 3,
+        "text": "Olio"
+      },
+      {
+        "level": 3,
+        "text": "Mesaerion: The Best Science ..."
+      },
+      {
+        "level": 3,
+        "text": "Libertarianism for Beginners"
+      },
+      {
+        "level": 3,
+        "text": "It's Only the Himalayas"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://books.toscrape.com/index.html",
+        "text": "Books to Scrape",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "text": "Books",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "text": "Travel",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+        "text": "Mystery",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+        "text": "Historical Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+        "text": "Sequential Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+        "text": "Classics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+        "text": "Philosophy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+        "text": "Romance",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+        "text": "Womens Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+        "text": "Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+        "text": "Childrens",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+        "text": "Religion",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+        "text": "Nonfiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+        "text": "Music",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+        "text": "Default",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+        "text": "Science Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+        "text": "Sports and Games",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+        "text": "Add a comment",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+        "text": "Fantasy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+        "text": "New Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+        "text": "Young Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+        "text": "Science",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+        "text": "Poetry",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+        "text": "Paranormal",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+        "text": "Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+        "text": "Psychology",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+        "text": "Autobiography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+        "text": "Parenting",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+        "text": "Adult Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+        "text": "Humor",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+        "text": "Horror",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+        "text": "History",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+        "text": "Food and Drink",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+        "text": "Christian Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+        "text": "Business",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+        "text": "Biography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+        "text": "Thriller",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+        "text": "Contemporary",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+        "text": "Spirituality",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+        "text": "Academic",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+        "text": "Self Help",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+        "text": "Historical",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+        "text": "Christian",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+        "text": "Suspense",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+        "text": "Short Stories",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+        "text": "Novels",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+        "text": "Health",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+        "text": "Politics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
+        "text": "Cultural",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
+        "text": "Erotica",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
+        "text": "Crime",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/page-2.html",
+        "text": "next",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+        "alt": "A Light in the Attic"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "alt": "Tipping the Velvet"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg",
+        "alt": "Soumission"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "alt": "Sharp Objects"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg",
+        "alt": "Sapiens: A Brief History of Humankind"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg",
+        "alt": "The Requiem Red"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg",
+        "alt": "The Dirty Little Secrets of Getting Your Dream Job"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg",
+        "alt": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg",
+        "alt": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg",
+        "alt": "The Black Maria"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg",
+        "alt": "Starving Hearts (Triangular Trade Trilogy, #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg",
+        "alt": "Shakespeare's Sonnets"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg",
+        "alt": "Set Me Free"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg",
+        "alt": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg",
+        "alt": "Rip it Up and Start Again"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg",
+        "alt": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg",
+        "alt": "Olio"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg",
+        "alt": "Mesaerion: The Best Science Fiction Stories 1800-1849"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg",
+        "alt": "Libertarianism for Beginners"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "alt": "It's Only the Himalayas"
+      }
+    ]
+  },
+  "index-html": {
+    "id": "page-2",
+    "url": "https://books.toscrape.com/index.html",
+    "slug": "index-html",
+    "title": "All products | Books to Scrape - Sandbox",
+    "metaDescription": "",
+    "category": "shop",
+    "products": [
+      {
+        "id": "prod-card-1",
+        "name": "A Light in the ...",
+        "price": "£51.77",
+        "rawPrice": 51.77,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-2",
+        "name": "Tipping the Velvet",
+        "price": "£53.74",
+        "rawPrice": 53.74,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-3",
+        "name": "Soumission",
+        "price": "£50.10",
+        "rawPrice": 50.1,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-4",
+        "name": "Sharp Objects",
+        "price": "£47.82",
+        "rawPrice": 47.82,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-5",
+        "name": "Sapiens: A Brief History ...",
+        "price": "£54.23",
+        "rawPrice": 54.23,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-6",
+        "name": "The Requiem Red",
+        "price": "£22.65",
+        "rawPrice": 22.65,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-7",
+        "name": "The Dirty Little Secrets ...",
+        "price": "£33.34",
+        "rawPrice": 33.34,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-8",
+        "name": "The Coming Woman: A ...",
+        "price": "£17.93",
+        "rawPrice": 17.93,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-9",
+        "name": "The Boys in the ...",
+        "price": "£22.60",
+        "rawPrice": 22.6,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-10",
+        "name": "The Black Maria",
+        "price": "£52.15",
+        "rawPrice": 52.15,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-11",
+        "name": "Starving Hearts (Triangular Trade ...",
+        "price": "£13.99",
+        "rawPrice": 13.99,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-12",
+        "name": "Shakespeare's Sonnets",
+        "price": "£20.66",
+        "rawPrice": 20.66,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-13",
+        "name": "Set Me Free",
+        "price": "£17.46",
+        "rawPrice": 17.46,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-14",
+        "name": "Scott Pilgrim's Precious Little ...",
+        "price": "£52.29",
+        "rawPrice": 52.29,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-15",
+        "name": "Rip it Up and ...",
+        "price": "£35.02",
+        "rawPrice": 35.02,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-16",
+        "name": "Our Band Could Be ...",
+        "price": "£57.25",
+        "rawPrice": 57.25,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-17",
+        "name": "Olio",
+        "price": "£23.88",
+        "rawPrice": 23.88,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-18",
+        "name": "Mesaerion: The Best Science ...",
+        "price": "£37.59",
+        "rawPrice": 37.59,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-19",
+        "name": "Libertarianism for Beginners",
+        "price": "£51.33",
+        "rawPrice": 51.33,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-20",
+        "name": "It's Only the Himalayas",
+        "price": "£45.17",
+        "rawPrice": 45.17,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "All products"
+      },
+      {
+        "level": 3,
+        "text": "A Light in the ..."
+      },
+      {
+        "level": 3,
+        "text": "Tipping the Velvet"
+      },
+      {
+        "level": 3,
+        "text": "Soumission"
+      },
+      {
+        "level": 3,
+        "text": "Sharp Objects"
+      },
+      {
+        "level": 3,
+        "text": "Sapiens: A Brief History ..."
+      },
+      {
+        "level": 3,
+        "text": "The Requiem Red"
+      },
+      {
+        "level": 3,
+        "text": "The Dirty Little Secrets ..."
+      },
+      {
+        "level": 3,
+        "text": "The Coming Woman: A ..."
+      },
+      {
+        "level": 3,
+        "text": "The Boys in the ..."
+      },
+      {
+        "level": 3,
+        "text": "The Black Maria"
+      },
+      {
+        "level": 3,
+        "text": "Starving Hearts (Triangular Trade ..."
+      },
+      {
+        "level": 3,
+        "text": "Shakespeare's Sonnets"
+      },
+      {
+        "level": 3,
+        "text": "Set Me Free"
+      },
+      {
+        "level": 3,
+        "text": "Scott Pilgrim's Precious Little ..."
+      },
+      {
+        "level": 3,
+        "text": "Rip it Up and ..."
+      },
+      {
+        "level": 3,
+        "text": "Our Band Could Be ..."
+      },
+      {
+        "level": 3,
+        "text": "Olio"
+      },
+      {
+        "level": 3,
+        "text": "Mesaerion: The Best Science ..."
+      },
+      {
+        "level": 3,
+        "text": "Libertarianism for Beginners"
+      },
+      {
+        "level": 3,
+        "text": "It's Only the Himalayas"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://books.toscrape.com/index.html",
+        "text": "Books to Scrape",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "text": "Books",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "text": "Travel",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+        "text": "Mystery",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+        "text": "Historical Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+        "text": "Sequential Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+        "text": "Classics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+        "text": "Philosophy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+        "text": "Romance",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+        "text": "Womens Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+        "text": "Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+        "text": "Childrens",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+        "text": "Religion",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+        "text": "Nonfiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+        "text": "Music",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+        "text": "Default",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+        "text": "Science Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+        "text": "Sports and Games",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+        "text": "Add a comment",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+        "text": "Fantasy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+        "text": "New Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+        "text": "Young Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+        "text": "Science",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+        "text": "Poetry",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+        "text": "Paranormal",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+        "text": "Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+        "text": "Psychology",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+        "text": "Autobiography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+        "text": "Parenting",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+        "text": "Adult Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+        "text": "Humor",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+        "text": "Horror",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+        "text": "History",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+        "text": "Food and Drink",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+        "text": "Christian Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+        "text": "Business",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+        "text": "Biography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+        "text": "Thriller",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+        "text": "Contemporary",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+        "text": "Spirituality",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+        "text": "Academic",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+        "text": "Self Help",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+        "text": "Historical",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+        "text": "Christian",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+        "text": "Suspense",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+        "text": "Short Stories",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+        "text": "Novels",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+        "text": "Health",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+        "text": "Politics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
+        "text": "Cultural",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
+        "text": "Erotica",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
+        "text": "Crime",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/page-2.html",
+        "text": "next",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+        "alt": "A Light in the Attic"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "alt": "Tipping the Velvet"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg",
+        "alt": "Soumission"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "alt": "Sharp Objects"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg",
+        "alt": "Sapiens: A Brief History of Humankind"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg",
+        "alt": "The Requiem Red"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg",
+        "alt": "The Dirty Little Secrets of Getting Your Dream Job"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg",
+        "alt": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg",
+        "alt": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg",
+        "alt": "The Black Maria"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg",
+        "alt": "Starving Hearts (Triangular Trade Trilogy, #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg",
+        "alt": "Shakespeare's Sonnets"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg",
+        "alt": "Set Me Free"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg",
+        "alt": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg",
+        "alt": "Rip it Up and Start Again"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg",
+        "alt": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg",
+        "alt": "Olio"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg",
+        "alt": "Mesaerion: The Best Science Fiction Stories 1800-1849"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg",
+        "alt": "Libertarianism for Beginners"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "alt": "It's Only the Himalayas"
+      }
+    ]
+  },
+  "catalogue-category-books_1-index-html": {
+    "id": "page-3",
+    "url": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+    "slug": "catalogue-category-books_1-index-html",
+    "title": "Books | \n     Books to Scrape - Sandbox",
+    "metaDescription": "",
+    "category": "shop",
+    "products": [
+      {
+        "id": "prod-card-1",
+        "name": "A Light in the ...",
+        "price": "£51.77",
+        "rawPrice": 51.77,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-2",
+        "name": "Tipping the Velvet",
+        "price": "£53.74",
+        "rawPrice": 53.74,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-3",
+        "name": "Soumission",
+        "price": "£50.10",
+        "rawPrice": 50.1,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-4",
+        "name": "Sharp Objects",
+        "price": "£47.82",
+        "rawPrice": 47.82,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-5",
+        "name": "Sapiens: A Brief History ...",
+        "price": "£54.23",
+        "rawPrice": 54.23,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-6",
+        "name": "The Requiem Red",
+        "price": "£22.65",
+        "rawPrice": 22.65,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-7",
+        "name": "The Dirty Little Secrets ...",
+        "price": "£33.34",
+        "rawPrice": 33.34,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-8",
+        "name": "The Coming Woman: A ...",
+        "price": "£17.93",
+        "rawPrice": 17.93,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-9",
+        "name": "The Boys in the ...",
+        "price": "£22.60",
+        "rawPrice": 22.6,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-10",
+        "name": "The Black Maria",
+        "price": "£52.15",
+        "rawPrice": 52.15,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-11",
+        "name": "Starving Hearts (Triangular Trade ...",
+        "price": "£13.99",
+        "rawPrice": 13.99,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-12",
+        "name": "Shakespeare's Sonnets",
+        "price": "£20.66",
+        "rawPrice": 20.66,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-13",
+        "name": "Set Me Free",
+        "price": "£17.46",
+        "rawPrice": 17.46,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-14",
+        "name": "Scott Pilgrim's Precious Little ...",
+        "price": "£52.29",
+        "rawPrice": 52.29,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-15",
+        "name": "Rip it Up and ...",
+        "price": "£35.02",
+        "rawPrice": 35.02,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-16",
+        "name": "Our Band Could Be ...",
+        "price": "£57.25",
+        "rawPrice": 57.25,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-17",
+        "name": "Olio",
+        "price": "£23.88",
+        "rawPrice": 23.88,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-18",
+        "name": "Mesaerion: The Best Science ...",
+        "price": "£37.59",
+        "rawPrice": 37.59,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-19",
+        "name": "Libertarianism for Beginners",
+        "price": "£51.33",
+        "rawPrice": 51.33,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-20",
+        "name": "It's Only the Himalayas",
+        "price": "£45.17",
+        "rawPrice": 45.17,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Books"
+      },
+      {
+        "level": 3,
+        "text": "A Light in the ..."
+      },
+      {
+        "level": 3,
+        "text": "Tipping the Velvet"
+      },
+      {
+        "level": 3,
+        "text": "Soumission"
+      },
+      {
+        "level": 3,
+        "text": "Sharp Objects"
+      },
+      {
+        "level": 3,
+        "text": "Sapiens: A Brief History ..."
+      },
+      {
+        "level": 3,
+        "text": "The Requiem Red"
+      },
+      {
+        "level": 3,
+        "text": "The Dirty Little Secrets ..."
+      },
+      {
+        "level": 3,
+        "text": "The Coming Woman: A ..."
+      },
+      {
+        "level": 3,
+        "text": "The Boys in the ..."
+      },
+      {
+        "level": 3,
+        "text": "The Black Maria"
+      },
+      {
+        "level": 3,
+        "text": "Starving Hearts (Triangular Trade ..."
+      },
+      {
+        "level": 3,
+        "text": "Shakespeare's Sonnets"
+      },
+      {
+        "level": 3,
+        "text": "Set Me Free"
+      },
+      {
+        "level": 3,
+        "text": "Scott Pilgrim's Precious Little ..."
+      },
+      {
+        "level": 3,
+        "text": "Rip it Up and ..."
+      },
+      {
+        "level": 3,
+        "text": "Our Band Could Be ..."
+      },
+      {
+        "level": 3,
+        "text": "Olio"
+      },
+      {
+        "level": 3,
+        "text": "Mesaerion: The Best Science ..."
+      },
+      {
+        "level": 3,
+        "text": "Libertarianism for Beginners"
+      },
+      {
+        "level": 3,
+        "text": "It's Only the Himalayas"
+      }
+    ],
+    "links": [
+      {
+        "href": "https://books.toscrape.com/index.html",
+        "text": "Books to Scrape",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "text": "Books",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "text": "Travel",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+        "text": "Mystery",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+        "text": "Historical Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+        "text": "Sequential Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+        "text": "Classics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+        "text": "Philosophy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+        "text": "Romance",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+        "text": "Womens Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+        "text": "Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+        "text": "Childrens",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+        "text": "Religion",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+        "text": "Nonfiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+        "text": "Music",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+        "text": "Default",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+        "text": "Science Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+        "text": "Sports and Games",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+        "text": "Add a comment",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+        "text": "Fantasy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+        "text": "New Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+        "text": "Young Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+        "text": "Science",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+        "text": "Poetry",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+        "text": "Paranormal",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+        "text": "Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+        "text": "Psychology",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+        "text": "Autobiography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+        "text": "Parenting",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+        "text": "Adult Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+        "text": "Humor",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+        "text": "Horror",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+        "text": "History",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+        "text": "Food and Drink",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+        "text": "Christian Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+        "text": "Business",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+        "text": "Biography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+        "text": "Thriller",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+        "text": "Contemporary",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+        "text": "Spirituality",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+        "text": "Academic",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+        "text": "Self Help",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+        "text": "Historical",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+        "text": "Christian",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+        "text": "Suspense",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+        "text": "Short Stories",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+        "text": "Novels",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+        "text": "Health",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+        "text": "Politics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
+        "text": "Cultural",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
+        "text": "Erotica",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
+        "text": "Crime",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/soumission_998/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-requiem-red_995/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-dirty-little-secrets-of-getting-your-dream-job_994/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-coming-woman-a-novel-based-on-the-life-of-the-infamous-feminist-victoria-woodhull_993/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-boys-in-the-boat-nine-americans-and-their-epic-quest-for-gold-at-the-1936-berlin-olympics_992/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-black-maria_991/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/starving-hearts-triangular-trade-trilogy-1_990/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/shakespeares-sonnets_989/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/set-me-free_988/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/scott-pilgrims-precious-little-life-scott-pilgrim-1_987/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/rip-it-up-and-start-again_986/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/olio_984/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/mesaerion-the-best-science-fiction-stories-1800-1849_983/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/libertarianism-for-beginners_982/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books_1/page-2.html",
+        "text": "next",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://books.toscrape.com/media/cache/2c/da/2cdad67c44b002e7ead0cc35693c0e8b.jpg",
+        "alt": "A Light in the Attic"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "alt": "Tipping the Velvet"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/3e/ef/3eef99c9d9adef34639f510662022830.jpg",
+        "alt": "Soumission"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "alt": "Sharp Objects"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/be/a5/bea5697f2534a2f86a3ef27b5a8c12a6.jpg",
+        "alt": "Sapiens: A Brief History of Humankind"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/68/33/68339b4c9bc034267e1da611ab3b34f8.jpg",
+        "alt": "The Requiem Red"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/92/27/92274a95b7c251fea59a2b8a78275ab4.jpg",
+        "alt": "The Dirty Little Secrets of Getting Your Dream Job"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/3d/54/3d54940e57e662c4dd1f3ff00c78cc64.jpg",
+        "alt": "The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/66/88/66883b91f6804b2323c8369331cb7dd1.jpg",
+        "alt": "The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/58/46/5846057e28022268153beff6d352b06c.jpg",
+        "alt": "The Black Maria"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/be/f4/bef44da28c98f905a3ebec0b87be8530.jpg",
+        "alt": "Starving Hearts (Triangular Trade Trilogy, #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/10/48/1048f63d3b5061cd2f424d20b3f9b666.jpg",
+        "alt": "Shakespeare's Sonnets"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/5b/88/5b88c52633f53cacf162c15f4f823153.jpg",
+        "alt": "Set Me Free"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/94/b1/94b1b8b244bce9677c2f29ccc890d4d2.jpg",
+        "alt": "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/81/c4/81c4a973364e17d01f217e1188253d5e.jpg",
+        "alt": "Rip it Up and Start Again"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/54/60/54607fe8945897cdcced0044103b10b6.jpg",
+        "alt": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/55/33/553310a7162dfbc2c6d19a84da0df9e1.jpg",
+        "alt": "Olio"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/09/a3/09a3aef48557576e1a85ba7efea8ecb7.jpg",
+        "alt": "Mesaerion: The Best Science Fiction Stories 1800-1849"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/0b/bc/0bbcd0a6f4bcd81ccb1049a52736406e.jpg",
+        "alt": "Libertarianism for Beginners"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "alt": "It's Only the Himalayas"
+      }
+    ]
+  },
+  "catalogue-category-books-travel_2-index-html": {
+    "id": "page-4",
+    "url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+    "slug": "catalogue-category-books-travel_2-index-html",
+    "title": "Travel | \n     Books to Scrape - Sandbox",
+    "metaDescription": "",
+    "category": "shop",
+    "products": [
+      {
+        "id": "prod-card-1",
+        "name": "It's Only the Himalayas",
+        "price": "£45.17",
+        "rawPrice": 45.17,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-2",
+        "name": "Full Moon over Noah’s ...",
+        "price": "£49.43",
+        "rawPrice": 49.43,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/57/77/57770cac1628f4407636635f4b85e88c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-3",
+        "name": "See America: A Celebration ...",
+        "price": "£48.87",
+        "rawPrice": 48.87,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/9a/7e/9a7e63f12829df4b43b31d110bf3dc2e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-4",
+        "name": "Vagabonding: An Uncommon Guide ...",
+        "price": "£36.94",
+        "rawPrice": 36.94,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/d5/bf/d5bf0090470b0b8ea46d9c166f7895aa.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-5",
+        "name": "Under the Tuscan Sun",
+        "price": "£37.33",
+        "rawPrice": 37.33,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/98/c2/98c2e95c5fd1a4e7cd5f2b63c52826cb.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-6",
+        "name": "A Summer In Europe",
+        "price": "£44.34",
+        "rawPrice": 44.34,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/4e/15/4e15150388702ebca2c5a523ac270539.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-7",
+        "name": "The Great Railway Bazaar",
+        "price": "£30.54",
+        "rawPrice": 30.54,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/76/de/76de41867f323d7f1f4fbe2fdfc1b2ba.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-8",
+        "name": "A Year in Provence ...",
+        "price": "£56.88",
+        "rawPrice": 56.88,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/db/46/db46159b05faa5d95262112bf9c29ddd.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-9",
+        "name": "The Road to Little ...",
+        "price": "£23.21",
+        "rawPrice": 23.21,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/e0/4f/e04f8eda2a2fa947aec17640202d9ab0.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-10",
+        "name": "Neither Here nor There: ...",
+        "price": "£38.95",
+        "rawPrice": 38.95,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/06/81/0681530a7bc301caf5c3257e1b0f0750.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-11",
+        "name": "1,000 Places to See ...",
+        "price": "£26.08",
+        "rawPrice": 26.08,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/d7/0f/d70f7edd92705c45a82118c3ff6c299d.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Travel"
+      },
+      {
+        "level": 3,
+        "text": "It's Only the Himalayas"
+      },
+      {
+        "level": 3,
+        "text": "Full Moon over Noah’s ..."
+      },
+      {
+        "level": 3,
+        "text": "See America: A Celebration ..."
+      },
+      {
+        "level": 3,
+        "text": "Vagabonding: An Uncommon Guide ..."
+      },
+      {
+        "level": 3,
+        "text": "Under the Tuscan Sun"
+      },
+      {
+        "level": 3,
+        "text": "A Summer In Europe"
+      },
+      {
+        "level": 3,
+        "text": "The Great Railway Bazaar"
+      },
+      {
+        "level": 3,
+        "text": "A Year in Provence ..."
+      },
+      {
+        "level": 3,
+        "text": "The Road to Little ..."
+      },
+      {
+        "level": 3,
+        "text": "Neither Here nor There: ..."
+      },
+      {
+        "level": 3,
+        "text": "1,000 Places to See ..."
+      }
+    ],
+    "links": [
+      {
+        "href": "https://books.toscrape.com/index.html",
+        "text": "Books to Scrape",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "text": "Books",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "text": "Travel",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+        "text": "Mystery",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+        "text": "Historical Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+        "text": "Sequential Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+        "text": "Classics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+        "text": "Philosophy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+        "text": "Romance",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+        "text": "Womens Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+        "text": "Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+        "text": "Childrens",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+        "text": "Religion",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+        "text": "Nonfiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+        "text": "Music",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+        "text": "Default",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+        "text": "Science Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+        "text": "Sports and Games",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+        "text": "Add a comment",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+        "text": "Fantasy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+        "text": "New Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+        "text": "Young Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+        "text": "Science",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+        "text": "Poetry",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+        "text": "Paranormal",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+        "text": "Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+        "text": "Psychology",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+        "text": "Autobiography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+        "text": "Parenting",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+        "text": "Adult Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+        "text": "Humor",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+        "text": "Horror",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+        "text": "History",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+        "text": "Food and Drink",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+        "text": "Christian Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+        "text": "Business",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+        "text": "Biography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+        "text": "Thriller",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+        "text": "Contemporary",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+        "text": "Spirituality",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+        "text": "Academic",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+        "text": "Self Help",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+        "text": "Historical",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+        "text": "Christian",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+        "text": "Suspense",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+        "text": "Short Stories",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+        "text": "Novels",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+        "text": "Health",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+        "text": "Politics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
+        "text": "Cultural",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
+        "text": "Erotica",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
+        "text": "Crime",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/its-only-the-himalayas_981/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/full-moon-over-noahs-ark-an-odyssey-to-mount-ararat-and-beyond_811/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/see-america-a-celebration-of-our-national-parks-treasured-sites_732/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/vagabonding-an-uncommon-guide-to-the-art-of-long-term-world-travel_552/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/under-the-tuscan-sun_504/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-summer-in-europe_458/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-great-railway-bazaar_446/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-road-to-little-dribbling-adventures-of-an-american-in-britain-notes-from-a-small-island-2_277/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/neither-here-nor-there-travels-in-europe_198/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/1000-places-to-see-before-you-die_1/index.html",
+        "text": "",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://books.toscrape.com/media/cache/27/a5/27a53d0bb95bdd88288eaf66c9230d7e.jpg",
+        "alt": "It's Only the Himalayas"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/57/77/57770cac1628f4407636635f4b85e88c.jpg",
+        "alt": "Full Moon over Noah’s Ark: An Odyssey to Mount Ararat and Beyond"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/9a/7e/9a7e63f12829df4b43b31d110bf3dc2e.jpg",
+        "alt": "See America: A Celebration of Our National Parks & Treasured Sites"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/d5/bf/d5bf0090470b0b8ea46d9c166f7895aa.jpg",
+        "alt": "Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/98/c2/98c2e95c5fd1a4e7cd5f2b63c52826cb.jpg",
+        "alt": "Under the Tuscan Sun"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/4e/15/4e15150388702ebca2c5a523ac270539.jpg",
+        "alt": "A Summer In Europe"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/76/de/76de41867f323d7f1f4fbe2fdfc1b2ba.jpg",
+        "alt": "The Great Railway Bazaar"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/db/46/db46159b05faa5d95262112bf9c29ddd.jpg",
+        "alt": "A Year in Provence (Provence #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/e0/4f/e04f8eda2a2fa947aec17640202d9ab0.jpg",
+        "alt": "The Road to Little Dribbling: Adventures of an American in Britain (Notes From a Small Island #2)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/06/81/0681530a7bc301caf5c3257e1b0f0750.jpg",
+        "alt": "Neither Here nor There: Travels in Europe"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/d7/0f/d70f7edd92705c45a82118c3ff6c299d.jpg",
+        "alt": "1,000 Places to See Before You Die"
+      }
+    ]
+  },
+  "catalogue-category-books-mystery_3-index-html": {
+    "id": "page-5",
+    "url": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+    "slug": "catalogue-category-books-mystery_3-index-html",
+    "title": "Mystery | \n     Books to Scrape - Sandbox",
+    "metaDescription": "",
+    "category": "shop",
+    "products": [
+      {
+        "id": "prod-card-1",
+        "name": "Sharp Objects",
+        "price": "£47.82",
+        "rawPrice": 47.82,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-2",
+        "name": "In a Dark, Dark ...",
+        "price": "£19.63",
+        "rawPrice": 19.63,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/23/85/238570a1c284e730dbc737a7e631ae2b.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-3",
+        "name": "The Past Never Ends",
+        "price": "£56.50",
+        "rawPrice": 56.5,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/89/b8/89b850edb01851a91f64ba114b96acb6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-4",
+        "name": "A Murder in Time",
+        "price": "£16.64",
+        "rawPrice": 16.64,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/11/aa/11aaad48b5f15e262456ca65294084da.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-5",
+        "name": "The Murder of Roger ...",
+        "price": "£44.10",
+        "rawPrice": 44.1,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/29/fe/29fe70b1b2e5a9ba61d4bd331255e19e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-6",
+        "name": "The Last Mile (Amos ...",
+        "price": "£54.21",
+        "rawPrice": 54.21,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/37/f1/37f118b4a56d866e1e8b563759d6966c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-7",
+        "name": "That Darkness (Gardiner and ...",
+        "price": "£13.92",
+        "rawPrice": 13.92,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/44/9e/449ed681142bc336646abee754e96639.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-8",
+        "name": "Tastes Like Fear (DI ...",
+        "price": "£10.69",
+        "rawPrice": 10.69,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/3c/91/3c91d97266bd6dda322089695fb46daf.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-9",
+        "name": "A Time of Torment ...",
+        "price": "£48.35",
+        "rawPrice": 48.35,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/e8/c0/e8c0ba15066bab950ae161fd60949b9a.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-10",
+        "name": "A Study in Scarlet ...",
+        "price": "£16.73",
+        "rawPrice": 16.73,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/8f/a4/8fa41d6caa10e427356b8a590eb4d96b.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-11",
+        "name": "Poisonous (Max Revere Novels ...",
+        "price": "£26.80",
+        "rawPrice": 26.8,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/23/52/2352718971d5e166fa9541a5a7d716fa.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-12",
+        "name": "Murder at the 42nd ...",
+        "price": "£54.36",
+        "rawPrice": 54.36,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/c3/8d/c38d65cd155b67ca025f0655bd1bb095.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-13",
+        "name": "Most Wanted",
+        "price": "£35.28",
+        "rawPrice": 35.28,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/8b/bc/8bbc5ab4c3784b4d9b93eb0fd1fb6fd6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/most-wanted_623/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-14",
+        "name": "Hide Away (Eve Duncan ...",
+        "price": "£11.84",
+        "rawPrice": 11.84,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/57/07/5707c3d5d4fd44d943d51730ba7d429a.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-15",
+        "name": "Boar Island (Anna Pigeon ...",
+        "price": "£59.48",
+        "rawPrice": 59.48,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/d5/81/d58157866ea8f015a8e4c55b23b8c96f.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-16",
+        "name": "The Widow",
+        "price": "£27.26",
+        "rawPrice": 27.26,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/fd/71/fd71fb07247bf911505a351c0670c6dc.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-widow_609/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-17",
+        "name": "Playing with Fire",
+        "price": "£13.71",
+        "rawPrice": 13.71,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/90/0b/900bd2e60d56b6480a4e8eb2dddb46d6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/playing-with-fire_602/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-18",
+        "name": "What Happened on Beale ...",
+        "price": "£25.37",
+        "rawPrice": 25.37,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/c7/ab/c7abb5e32bd37118a87523dcee0a70a6.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-19",
+        "name": "The Bachelor Girl's Guide ...",
+        "price": "£52.30",
+        "rawPrice": 52.3,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/95/d7/95d7541679fcbd579b8a4f2b47231aaf.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-20",
+        "name": "Delivering the Truth (Quaker ...",
+        "price": "£20.89",
+        "rawPrice": 20.89,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/57/31/5731a5d46c2c1e88977eb5e6d1337a2e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Mystery"
+      },
+      {
+        "level": 3,
+        "text": "Sharp Objects"
+      },
+      {
+        "level": 3,
+        "text": "In a Dark, Dark ..."
+      },
+      {
+        "level": 3,
+        "text": "The Past Never Ends"
+      },
+      {
+        "level": 3,
+        "text": "A Murder in Time"
+      },
+      {
+        "level": 3,
+        "text": "The Murder of Roger ..."
+      },
+      {
+        "level": 3,
+        "text": "The Last Mile (Amos ..."
+      },
+      {
+        "level": 3,
+        "text": "That Darkness (Gardiner and ..."
+      },
+      {
+        "level": 3,
+        "text": "Tastes Like Fear (DI ..."
+      },
+      {
+        "level": 3,
+        "text": "A Time of Torment ..."
+      },
+      {
+        "level": 3,
+        "text": "A Study in Scarlet ..."
+      },
+      {
+        "level": 3,
+        "text": "Poisonous (Max Revere Novels ..."
+      },
+      {
+        "level": 3,
+        "text": "Murder at the 42nd ..."
+      },
+      {
+        "level": 3,
+        "text": "Most Wanted"
+      },
+      {
+        "level": 3,
+        "text": "Hide Away (Eve Duncan ..."
+      },
+      {
+        "level": 3,
+        "text": "Boar Island (Anna Pigeon ..."
+      },
+      {
+        "level": 3,
+        "text": "The Widow"
+      },
+      {
+        "level": 3,
+        "text": "Playing with Fire"
+      },
+      {
+        "level": 3,
+        "text": "What Happened on Beale ..."
+      },
+      {
+        "level": 3,
+        "text": "The Bachelor Girl's Guide ..."
+      },
+      {
+        "level": 3,
+        "text": "Delivering the Truth (Quaker ..."
+      }
+    ],
+    "links": [
+      {
+        "href": "https://books.toscrape.com/index.html",
+        "text": "Books to Scrape",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "text": "Books",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "text": "Travel",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+        "text": "Mystery",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+        "text": "Historical Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+        "text": "Sequential Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+        "text": "Classics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+        "text": "Philosophy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+        "text": "Romance",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+        "text": "Womens Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+        "text": "Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+        "text": "Childrens",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+        "text": "Religion",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+        "text": "Nonfiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+        "text": "Music",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+        "text": "Default",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+        "text": "Science Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+        "text": "Sports and Games",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+        "text": "Add a comment",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+        "text": "Fantasy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+        "text": "New Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+        "text": "Young Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+        "text": "Science",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+        "text": "Poetry",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+        "text": "Paranormal",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+        "text": "Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+        "text": "Psychology",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+        "text": "Autobiography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+        "text": "Parenting",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+        "text": "Adult Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+        "text": "Humor",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+        "text": "Horror",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+        "text": "History",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+        "text": "Food and Drink",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+        "text": "Christian Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+        "text": "Business",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+        "text": "Biography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+        "text": "Thriller",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+        "text": "Contemporary",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+        "text": "Spirituality",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+        "text": "Academic",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+        "text": "Self Help",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+        "text": "Historical",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+        "text": "Christian",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+        "text": "Suspense",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+        "text": "Short Stories",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+        "text": "Novels",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+        "text": "Health",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+        "text": "Politics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
+        "text": "Cultural",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
+        "text": "Erotica",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
+        "text": "Crime",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/sharp-objects_997/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/in-a-dark-dark-wood_963/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-past-never-ends_942/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-murder-in-time_877/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-murder-of-roger-ackroyd-hercule-poirot-4_852/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-last-mile-amos-decker-2_754/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/that-darkness-gardiner-and-renner-1_743/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/tastes-like-fear-di-marnie-rome-3_742/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-time-of-torment-charlie-parker-14_657/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-study-in-scarlet-sherlock-holmes-1_656/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/poisonous-max-revere-novels-3_627/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/murder-at-the-42nd-street-library-raymond-ambler-1_624/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/most-wanted_623/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/hide-away-eve-duncan-20_620/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-widow_609/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/playing-with-fire_602/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/what-happened-on-beale-street-secrets-of-the-south-mysteries-2_506/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-bachelor-girls-guide-to-murder-herringford-and-watts-mysteries-1_491/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/delivering-the-truth-quaker-midwife-mystery-1_464/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/mystery_3/page-2.html",
+        "text": "next",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://books.toscrape.com/media/cache/32/51/3251cf3a3412f53f339e42cac2134093.jpg",
+        "alt": "Sharp Objects"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/23/85/238570a1c284e730dbc737a7e631ae2b.jpg",
+        "alt": "In a Dark, Dark Wood"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/89/b8/89b850edb01851a91f64ba114b96acb6.jpg",
+        "alt": "The Past Never Ends"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/11/aa/11aaad48b5f15e262456ca65294084da.jpg",
+        "alt": "A Murder in Time"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/29/fe/29fe70b1b2e5a9ba61d4bd331255e19e.jpg",
+        "alt": "The Murder of Roger Ackroyd (Hercule Poirot #4)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/37/f1/37f118b4a56d866e1e8b563759d6966c.jpg",
+        "alt": "The Last Mile (Amos Decker #2)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/44/9e/449ed681142bc336646abee754e96639.jpg",
+        "alt": "That Darkness (Gardiner and Renner #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/3c/91/3c91d97266bd6dda322089695fb46daf.jpg",
+        "alt": "Tastes Like Fear (DI Marnie Rome #3)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/e8/c0/e8c0ba15066bab950ae161fd60949b9a.jpg",
+        "alt": "A Time of Torment (Charlie Parker #14)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/8f/a4/8fa41d6caa10e427356b8a590eb4d96b.jpg",
+        "alt": "A Study in Scarlet (Sherlock Holmes #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/23/52/2352718971d5e166fa9541a5a7d716fa.jpg",
+        "alt": "Poisonous (Max Revere Novels #3)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/c3/8d/c38d65cd155b67ca025f0655bd1bb095.jpg",
+        "alt": "Murder at the 42nd Street Library (Raymond Ambler #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/8b/bc/8bbc5ab4c3784b4d9b93eb0fd1fb6fd6.jpg",
+        "alt": "Most Wanted"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/57/07/5707c3d5d4fd44d943d51730ba7d429a.jpg",
+        "alt": "Hide Away (Eve Duncan #20)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/d5/81/d58157866ea8f015a8e4c55b23b8c96f.jpg",
+        "alt": "Boar Island (Anna Pigeon #19)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/fd/71/fd71fb07247bf911505a351c0670c6dc.jpg",
+        "alt": "The Widow"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/90/0b/900bd2e60d56b6480a4e8eb2dddb46d6.jpg",
+        "alt": "Playing with Fire"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/c7/ab/c7abb5e32bd37118a87523dcee0a70a6.jpg",
+        "alt": "What Happened on Beale Street (Secrets of the South Mysteries #2)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/95/d7/95d7541679fcbd579b8a4f2b47231aaf.jpg",
+        "alt": "The Bachelor Girl's Guide to Murder (Herringford and Watts Mysteries #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/57/31/5731a5d46c2c1e88977eb5e6d1337a2e.jpg",
+        "alt": "Delivering the Truth (Quaker Midwife Mystery #1)"
+      }
+    ]
+  },
+  "catalogue-category-books-historical-fiction_4-index-html": {
+    "id": "page-6",
+    "url": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+    "slug": "catalogue-category-books-historical-fiction_4-index-html",
+    "title": "Historical Fiction | \n     Books to Scrape - Sandbox",
+    "metaDescription": "",
+    "category": "shop",
+    "products": [
+      {
+        "id": "prod-card-1",
+        "name": "Tipping the Velvet",
+        "price": "£53.74",
+        "rawPrice": 53.74,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-2",
+        "name": "Forever and Forever: The ...",
+        "price": "£29.69",
+        "rawPrice": 29.69,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/d6/58/d658a1485b130ff26ca5fb0d5975ed2e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-3",
+        "name": "A Flight of Arrows ...",
+        "price": "£55.53",
+        "rawPrice": 55.53,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/82/96/8296f92b70fb1dafefecda92c1d51941.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-4",
+        "name": "The House by the ...",
+        "price": "£36.95",
+        "rawPrice": 36.95,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/0d/cb/0dcb33d60b0e79adf8ab9842e697ea2e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-5",
+        "name": "Mrs. Houdini",
+        "price": "£30.25",
+        "rawPrice": 30.25,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/0e/fe/0efe86960cdff718aed01a5c3f65b1c3.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/mrs-houdini_821/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-6",
+        "name": "The Marriage of Opposites",
+        "price": "£28.08",
+        "rawPrice": 28.08,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/0f/c2/0fc21ec3489cb23116778ee84f425eca.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-7",
+        "name": "Glory over Everything: Beyond ...",
+        "price": "£45.84",
+        "rawPrice": 45.84,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/96/41/964194a317f8ce5ed031bf4c9ceb43ab.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-8",
+        "name": "Love, Lies and Spies",
+        "price": "£20.55",
+        "rawPrice": 20.55,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/7a/22/7a224a6e174af91950e9b124afe54e0e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-9",
+        "name": "A Paris Apartment",
+        "price": "£39.01",
+        "rawPrice": 39.01,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/16/57/16575316618bd7e922d5b0e0f87de2ca.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-10",
+        "name": "Lilac Girls",
+        "price": "£17.28",
+        "rawPrice": 17.28,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/6c/2e/6c2e764e3ea89859b52df8de4f12af7a.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/lilac-girls_597/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-11",
+        "name": "The Constant Princess (The ...",
+        "price": "£16.62",
+        "rawPrice": 16.62,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/fc/80/fc80b999ff4b8ef24b7071f62d2bf6d1.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-12",
+        "name": "The Invention of Wings",
+        "price": "£37.34",
+        "rawPrice": 37.34,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/62/fa/62fa1e72f06f05762db5d9cedf654153.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-13",
+        "name": "World Without End (The ...",
+        "price": "£32.97",
+        "rawPrice": 32.97,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/be/7c/be7ce6fbc9a8e1a5a5b5c32e73cfd78a.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-14",
+        "name": "The Passion of Dolssa",
+        "price": "£28.32",
+        "rawPrice": 28.32,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/6b/82/6b822681c4035131560d40dd3b5a6a2e.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-15",
+        "name": "Girl With a Pearl ...",
+        "price": "£26.77",
+        "rawPrice": 26.77,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/b7/ad/b7ad37d93d8401c84d7325aa645ff6d5.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-16",
+        "name": "Voyager (Outlander #3)",
+        "price": "£21.07",
+        "rawPrice": 21.07,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/b5/d8/b5d813da01f2ccd7bcfe34e2b875e752.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-17",
+        "name": "The Red Tent",
+        "price": "£35.66",
+        "rawPrice": 35.66,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/b2/8f/b28f211e50e74445ca071d4279d1080d.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-red-tent_273/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-18",
+        "name": "The Last Painting of ...",
+        "price": "£55.55",
+        "rawPrice": 55.55,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/bf/fd/bffd473ab232c5f35e8c81bb927f1624.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-19",
+        "name": "The Guernsey Literary and ...",
+        "price": "£49.53",
+        "rawPrice": 49.53,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/18/f7/18f7bf6366cd7a8b947fd790d808047b.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      },
+      {
+        "id": "prod-card-20",
+        "name": "Girl in the Blue ...",
+        "price": "£46.83",
+        "rawPrice": 46.83,
+        "currency": "£",
+        "imageUrl": "https://books.toscrape.com/media/cache/bf/7a/bf7a5bc1d1ebac5e9b6fbb147828a123.jpg",
+        "productUrl": "https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html",
+        "inStock": true,
+        "source": "heuristic"
+      }
+    ],
+    "headings": [
+      {
+        "level": 1,
+        "text": "Historical Fiction"
+      },
+      {
+        "level": 3,
+        "text": "Tipping the Velvet"
+      },
+      {
+        "level": 3,
+        "text": "Forever and Forever: The ..."
+      },
+      {
+        "level": 3,
+        "text": "A Flight of Arrows ..."
+      },
+      {
+        "level": 3,
+        "text": "The House by the ..."
+      },
+      {
+        "level": 3,
+        "text": "Mrs. Houdini"
+      },
+      {
+        "level": 3,
+        "text": "The Marriage of Opposites"
+      },
+      {
+        "level": 3,
+        "text": "Glory over Everything: Beyond ..."
+      },
+      {
+        "level": 3,
+        "text": "Love, Lies and Spies"
+      },
+      {
+        "level": 3,
+        "text": "A Paris Apartment"
+      },
+      {
+        "level": 3,
+        "text": "Lilac Girls"
+      },
+      {
+        "level": 3,
+        "text": "The Constant Princess (The ..."
+      },
+      {
+        "level": 3,
+        "text": "The Invention of Wings"
+      },
+      {
+        "level": 3,
+        "text": "World Without End (The ..."
+      },
+      {
+        "level": 3,
+        "text": "The Passion of Dolssa"
+      },
+      {
+        "level": 3,
+        "text": "Girl With a Pearl ..."
+      },
+      {
+        "level": 3,
+        "text": "Voyager (Outlander #3)"
+      },
+      {
+        "level": 3,
+        "text": "The Red Tent"
+      },
+      {
+        "level": 3,
+        "text": "The Last Painting of ..."
+      },
+      {
+        "level": 3,
+        "text": "The Guernsey Literary and ..."
+      },
+      {
+        "level": 3,
+        "text": "Girl in the Blue ..."
+      }
+    ],
+    "links": [
+      {
+        "href": "https://books.toscrape.com/index.html",
+        "text": "Books to Scrape",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+        "text": "Books",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+        "text": "Travel",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+        "text": "Mystery",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+        "text": "Historical Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html",
+        "text": "Sequential Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html",
+        "text": "Classics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html",
+        "text": "Philosophy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html",
+        "text": "Romance",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html",
+        "text": "Womens Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html",
+        "text": "Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html",
+        "text": "Childrens",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html",
+        "text": "Religion",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html",
+        "text": "Nonfiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/music_14/index.html",
+        "text": "Music",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/default_15/index.html",
+        "text": "Default",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html",
+        "text": "Science Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html",
+        "text": "Sports and Games",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html",
+        "text": "Add a comment",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html",
+        "text": "Fantasy",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html",
+        "text": "New Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html",
+        "text": "Young Adult",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/science_22/index.html",
+        "text": "Science",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html",
+        "text": "Poetry",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html",
+        "text": "Paranormal",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/art_25/index.html",
+        "text": "Art",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html",
+        "text": "Psychology",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html",
+        "text": "Autobiography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html",
+        "text": "Parenting",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html",
+        "text": "Adult Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html",
+        "text": "Humor",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html",
+        "text": "Horror",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/history_32/index.html",
+        "text": "History",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html",
+        "text": "Food and Drink",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html",
+        "text": "Christian Fiction",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/business_35/index.html",
+        "text": "Business",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html",
+        "text": "Biography",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html",
+        "text": "Thriller",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html",
+        "text": "Contemporary",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html",
+        "text": "Spirituality",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html",
+        "text": "Academic",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html",
+        "text": "Self Help",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html",
+        "text": "Historical",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html",
+        "text": "Christian",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html",
+        "text": "Suspense",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html",
+        "text": "Short Stories",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html",
+        "text": "Novels",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/health_47/index.html",
+        "text": "Health",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html",
+        "text": "Politics",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html",
+        "text": "Cultural",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html",
+        "text": "Erotica",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html",
+        "text": "Crime",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/forever-and-forever-the-courtship-of-henry-longfellow-and-fanny-appleton_894/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-flight-of-arrows-the-pathfinders-2_876/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-house-by-the-lake_846/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/mrs-houdini_821/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-marriage-of-opposites_759/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/glory-over-everything-beyond-the-kitchen-house_696/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/love-lies-and-spies_622/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/a-paris-apartment_612/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/lilac-girls_597/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-constant-princess-the-tudor-court-1_493/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-invention-of-wings_448/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/world-without-end-the-pillars-of-the-earth-2_420/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-passion-of-dolssa_351/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/girl-with-a-pearl-earring_322/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/voyager-outlander-3_299/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-red-tent_273/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/the-guernsey-literary-and-potato-peel-pie-society_253/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/girl-in-the-blue-coat_160/index.html",
+        "text": "",
+        "isInternal": true
+      },
+      {
+        "href": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/page-2.html",
+        "text": "next",
+        "isInternal": true
+      }
+    ],
+    "images": [
+      {
+        "src": "https://books.toscrape.com/media/cache/26/0c/260c6ae16bce31c8f8c95daddd9f4a1c.jpg",
+        "alt": "Tipping the Velvet"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/d6/58/d658a1485b130ff26ca5fb0d5975ed2e.jpg",
+        "alt": "Forever and Forever: The Courtship of Henry Longfellow and Fanny Appleton"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/82/96/8296f92b70fb1dafefecda92c1d51941.jpg",
+        "alt": "A Flight of Arrows (The Pathfinders #2)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/0d/cb/0dcb33d60b0e79adf8ab9842e697ea2e.jpg",
+        "alt": "The House by the Lake"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/0e/fe/0efe86960cdff718aed01a5c3f65b1c3.jpg",
+        "alt": "Mrs. Houdini"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/0f/c2/0fc21ec3489cb23116778ee84f425eca.jpg",
+        "alt": "The Marriage of Opposites"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/96/41/964194a317f8ce5ed031bf4c9ceb43ab.jpg",
+        "alt": "Glory over Everything: Beyond The Kitchen House"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/7a/22/7a224a6e174af91950e9b124afe54e0e.jpg",
+        "alt": "Love, Lies and Spies"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/16/57/16575316618bd7e922d5b0e0f87de2ca.jpg",
+        "alt": "A Paris Apartment"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/6c/2e/6c2e764e3ea89859b52df8de4f12af7a.jpg",
+        "alt": "Lilac Girls"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/fc/80/fc80b999ff4b8ef24b7071f62d2bf6d1.jpg",
+        "alt": "The Constant Princess (The Tudor Court #1)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/62/fa/62fa1e72f06f05762db5d9cedf654153.jpg",
+        "alt": "The Invention of Wings"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/be/7c/be7ce6fbc9a8e1a5a5b5c32e73cfd78a.jpg",
+        "alt": "World Without End (The Pillars of the Earth #2)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/6b/82/6b822681c4035131560d40dd3b5a6a2e.jpg",
+        "alt": "The Passion of Dolssa"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/b7/ad/b7ad37d93d8401c84d7325aa645ff6d5.jpg",
+        "alt": "Girl With a Pearl Earring"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/b5/d8/b5d813da01f2ccd7bcfe34e2b875e752.jpg",
+        "alt": "Voyager (Outlander #3)"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/b2/8f/b28f211e50e74445ca071d4279d1080d.jpg",
+        "alt": "The Red Tent"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/bf/fd/bffd473ab232c5f35e8c81bb927f1624.jpg",
+        "alt": "The Last Painting of Sara de Vos"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/18/f7/18f7bf6366cd7a8b947fd790d808047b.jpg",
+        "alt": "The Guernsey Literary and Potato Peel Pie Society"
+      },
+      {
+        "src": "https://books.toscrape.com/media/cache/bf/7a/bf7a5bc1d1ebac5e9b6fbb147828a123.jpg",
+        "alt": "Girl in the Blue Coat"
+      }
+    ]
+  }
+}

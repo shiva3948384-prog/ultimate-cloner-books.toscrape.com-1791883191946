@@ -1,0 +1,59 @@
+{
+  "crawledAt": "2026-10-13T09:22:09.428Z",
+  "originUrl": "https://books.toscrape.com/",
+  "domain": "books.toscrape.com",
+  "totalPages": 6,
+  "totalProducts": 68,
+  "totalImages": 111,
+  "crawlerEngine": "auto",
+  "pagesList": [
+    {
+      "slug": "home",
+      "url": "https://books.toscrape.com/",
+      "title": "All products | Books to Scrape - Sandbox",
+      "category": "home",
+      "productsCount": 20,
+      "imagesCount": 20
+    },
+    {
+      "slug": "index-html",
+      "url": "https://books.toscrape.com/index.html",
+      "title": "All products | Books to Scrape - Sandbox",
+      "category": "shop",
+      "productsCount": 20,
+      "imagesCount": 20
+    },
+    {
+      "slug": "catalogue-category-books_1-index-html",
+      "url": "https://books.toscrape.com/catalogue/category/books_1/index.html",
+      "title": "Books | \n     Books to Scrape - Sandbox",
+      "category": "shop",
+      "productsCount": 20,
+      "imagesCount": 20
+    },
+    {
+      "slug": "catalogue-category-books-travel_2-index-html",
+      "url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html",
+      "title": "Travel | \n     Books to Scrape - Sandbox",
+      "category": "shop",
+      "productsCount": 11,
+      "imagesCount": 11
+    },
+    {
+      "slug": "catalogue-category-books-mystery_3-index-html",
+      "url": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html",
+      "title": "Mystery | \n     Books to Scrape - Sandbox",
+      "category": "shop",
+      "productsCount": 20,
+      "imagesCount": 20
+    },
+    {
+      "slug": "catalogue-category-books-historical-fiction_4-index-html",
+      "url": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html",
+      "title": "Historical Fiction | \n     Books to Scrape - Sandbox",
+      "category": "shop",
+      "productsCount": 20,
+      "imagesCount": 20
+    }
+  ]
+}
